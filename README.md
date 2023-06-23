@@ -39,7 +39,7 @@ I found PCAP(Wireshark extenstion file) file in <ip>/data/0 url, when i open thi
         os.system("/bin/bash")
  
 then BOOM!
-I found root.txt file
+I found root.txt file and finally go to bed.:)
         
         
 Thanks You!
